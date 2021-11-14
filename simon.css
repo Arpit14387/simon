@@ -1,0 +1,34 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(SassyFrass-Regular.ttf);
+ }
+
+.heading{
+    text-align: center;
+    font-size: 70px;
+    color: greenyellow;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.butt{
+    padding: 0px;
+    margin: 10px;
+}
+
+  #btn{
+      font-family: myFirstFont;
+      color: gold;
+      font-size: 50px;
+  }
+  
+  
+  .game-over {
+    background-color: red !important;
+    opacity: 0.8;
+  }
+  
+  .op
+{
+    opacity: 0.5;
+}
